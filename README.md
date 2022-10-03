@@ -1,5 +1,6 @@
 # setupminimal-pc
-my setup for minimalist pc
+
+My setup for minimalist pc
 
 Windows 10 - 11
 
